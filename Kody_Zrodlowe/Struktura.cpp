@@ -31,9 +31,7 @@ void Program()
         int wiek_postaci;
     };
 
-    dane np
-    {
-    };
+    dane np {};
 
     cout << "Podaj swoj nick: ";
     cin >> np.name;
